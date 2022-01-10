@@ -3,5 +3,5 @@ In this project, we will make a digital alarm clock using the Arduino, and this 
 
 In this project, we will rely on the DS1307 RTC module, as the latter will perform all the tasks of keeping time, while the battery that will be connected with this integrated circuit will be separate and have nothing to do with the main source of power.
 
-#Schematics
+# Schematics
 ![Circuit Schematic](https://raw.githubusercontent.com/Hatem-Zehir/Arduino-real-time-clock-with-alarm/main/images/Arduino-alarm-clock-circuit-diagram.jpg)
